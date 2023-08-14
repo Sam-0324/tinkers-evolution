@@ -1,6 +1,6 @@
 package xyz.phanta.tconevo.integration.mekanism;
 
-import mekanism.common.MekanismItems;
+import mekanism.common.register.MekanismItems; //github.com/sddsd2332/MEK-1.12.2-v10/issues/34
 import mekanism.common.item.ItemHDPE;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
